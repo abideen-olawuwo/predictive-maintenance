@@ -10,9 +10,14 @@ The data was downloaded from kaggle[https://www.kaggle.com/datasets/stephanmatzk
 
 The Evaluation metric is to get the best accuracy
 
-Features
+* Features
+The dataset Features include; Product ID,	Type,	Air temperature, Process temperature, Rotational speed,	Torque,	Tool wear, Machine failure
+TWF, HDF,	PWF, OSF, and RNF
 
 
-Modelling
+* Modelling
+The Model used are Random Forest Classifier (RFC), Decision Tree Classifier, GradientBoostingClassifier
+
+
 
 
